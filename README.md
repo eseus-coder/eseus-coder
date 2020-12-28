@@ -1,4 +1,4 @@
-### Hi there, I'm Arindam - Bose aka [eseus-coder](https://github.com/eseus-coder) 👋
+### Hi there, I'm Arindam - Bose aka [eseus-coder](https://e-profile.netlify.app/eseus/index.html) 👋
 
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![image](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
